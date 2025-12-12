@@ -7,4 +7,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somatuu&layout=compact&langs_count=6&cache_seconds=1800)
 
-
+GitHub README 통계 이미지는 외부 API를 사용하므로
+GitHub 또는 API 서버의 rate limit에 따라 일시적으로 표시되지 않을 수 있습니다ㅠㅠ!
